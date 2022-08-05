@@ -10,7 +10,7 @@
 
 ### 5 - Add (+)
 
-### 6 - Commit (Com mensagem de id)
+### 6 - Commit (Com mensagem de id) + publicar branch
 
 ### 7 - Selecionar aprovador
 
