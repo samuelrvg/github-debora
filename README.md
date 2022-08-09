@@ -14,7 +14,7 @@
 
 ### 7 - Selecionar aprovador
 
-### 8 - Fazer request
+### 8 - Fazer requeeeest
 
 ### 9 - Encaminhar comentário com descrição e número do commit
 
