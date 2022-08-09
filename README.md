@@ -1,6 +1,6 @@
 # github-debora
 
-### 1 - Pull da Main
+### 1 - Debora
 
 ### 2 - Criar branch (nomear conforme atividade)
 
@@ -14,7 +14,7 @@
 
 ### 7 - Selecionar aprovador
 
-### 8 - Fazer 000 requeeeest 222
+### 8 - Fazer request
 
 ### 9 - Encaminhar comentário com descrição e número do commit
 
@@ -22,4 +22,8 @@
 
 ### 11 - Se reprovado veríficar alterações necessárias, alterar e fazer o processo novamente.
 
-### 12 - Outro test branch main
+# Iniciando tratamento de conflitos
+
+### - Testando 1º conflito
+
+#### - A Main sempre estará um ponto a frente das branchs criadas, caso 2 branchs tenham alterações diferentes no mesmo trecho haverá conflito no merge(momento em que as alterações são consolidadas na main)
